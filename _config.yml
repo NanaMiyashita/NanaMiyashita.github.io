@@ -1,1 +1,7 @@
-
+theme: jekyll-theme-slate
+title: The homepage of Nana Miyashita,master student in International Media, Communication, and Tourism Studies
+description: Welcome to Nana's homepage
+plugins:
+  - jemoji
+url: "https://NanaMiyashita.github.io/"
+markdown: kramdown
