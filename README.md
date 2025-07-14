@@ -1,7 +1,5 @@
 # 🌏 Hi there, I'm Nana!
-
-<img src="images/IMG_6687.JPG" width="250" alt="Nana with ShellieMay" align="right" />
-
+![image](/img_6687.jpg)
 
 I'm a first-year master's student at the **Graduate School of International Media, Communication, and Tourism Studies, Hokkaido University**.  
 I research the connection between **tourism experiences and migration among international residents in Hokkaido**.
