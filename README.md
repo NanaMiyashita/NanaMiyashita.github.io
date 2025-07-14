@@ -27,7 +27,7 @@ I research the connection between **tourism experiences and migration among inte
 ## 🔗 Let's Connect!
 
 - 📧 Email: miyashita.nana.c1@elms.hokudai.ac.jp
-- 📍 Location: Hokkaido, Japan
+- 📍 Location: Hokkaido,Sapporo,Japan
 - 📄 Website / Portfolio: *Coming Soon!*
 
 Thanks for visiting my profile! 😊
