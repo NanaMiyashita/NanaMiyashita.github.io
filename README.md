@@ -16,7 +16,7 @@
 
 # 📸 My Favorite Photo
 
-<img src="images/IMG_6687.JPG" width="250" alt="Nana's profile picture" align="right" />
+<img src="IMG_6687 19.22.16.JPG" width="250" alt="Nana's profile picture" align="right" />
 
 ---
 
