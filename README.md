@@ -16,10 +16,12 @@
 
 # 📸 My Favorite Photo
 
-<img src="img/IMG_6687.JPG" width="300">
+<img src="images/IMG_6687.JPG" width="250" alt="Nana's profile picture" align="right" />
 
 ---
 
 # 🔗 Connect with Me
+📧 Email: your.email@example.com
+- 📍 Based in: Hokkaido, Japan
+- 🧠 Website or Portfolio: *Coming soon!*
 
-[![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
