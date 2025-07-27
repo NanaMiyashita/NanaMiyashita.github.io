@@ -1,31 +1,13 @@
-# 🌏 Hi there, I'm Nana!
+### Hi there 👋 I'm Nana!
 
-<img src="images/IMG_6687.JPG" width="250" alt="Nana with ShellieMay" align="right" />
-
-I'm a first-year master's student at the **Graduate School of International Media, Communication, and Tourism Studies, Hokkaido University**.  
-Currently, I'm researching how **seasonal foreign workers in Kutchan, Hokkaido** influence the **image formation of ski resorts** in the region.
-
----
-
-## 🎓 Research Focus
-
-- ❄️ Topic: The impact of **seasonal foreign workers** on **ski resort image formation** in **Kutchan, Hokkaido**
-- 🧭 Methods: Qualitative research (e.g., participant observation, interviews)
-- 🗺️ Interests: Tourism geography, labor mobility, and destination branding
+🎓 Master's Student at Hokkaido University  
+🗻 Researching: How seasonal foreign workers influence ski resort image in Kutchan, Hokkaido  
+🎡 Hobbies: Traveling ✈️ and Disney 🏰 lover
 
 ---
 
-## 💖 Hobbies
+![Nana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-- ✈️ **Travel** — I love exploring new places, cultures, and meeting people. Traveling always gives me fresh ideas and perspectives.
-- 🎠 **Disney** — I'm a huge fan of the entire Disney universe. I'm especially drawn to its storytelling, emotional design, and immersive experiences.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
----
-
-## 🔗 Let's Connect
-
-- 📧 Email: your.email@example.com  
-- 📍 Based in: Hokkaido, Japan  
-- 🌐 Website / Portfolio: *Coming soon!*
-
-Thanks for stopping by! 😊
+[![Twitter Badge](https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle)
