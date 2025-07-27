@@ -7,11 +7,12 @@
 - 🏂 My research focuses on how **seasonal foreign workers** shape the **image of ski resorts** in **Kutchan and Niseko, Hokkaido**
 - 🎢 I'm passionate about **traveling** and a big **Disney fan** 🏰
 - 👧 My MBTI is **ISFJ**
+  
 ---
 
 # 🛠 Skills
 
-- Languages: Japanese 🇯🇵| English 🇬🇧
+- Languages: Japanese 🇯🇵, English 🇬🇧
 - Research: Qualitative Methods, Tourism Studies
 - Completed the **Nihongo-Kyōin Yōsei Katei** (Japanese Language Teacher Training Course)
 - Participated in and completed the **Demola Global Project** with a Finnish-based international team
