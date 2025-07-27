@@ -1,13 +1,25 @@
-### Hi there 👋 I'm Nana!
+# 👩‍🎓 About Me
 
-🎓 Master's Student at Hokkaido University  
-🗻 Researching: How seasonal foreign workers influence ski resort image in Kutchan, Hokkaido  
-🎡 Hobbies: Traveling ✈️ and Disney 🏰 lover
+- 🌍 I'm a Master's student at **Hokkaido University**, Graduate School of International Media, Communication, and Tourism Studies
+- 🏂 My research focuses on how **seasonal foreign workers** shape the **image of ski resorts** in **Kutchan, Hokkaido**
+- 🎢 I'm passionate about **traveling** and a big **Disney fan** 🏰
 
 ---
 
-![Nana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+# 🛠 Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+- Languages: English 🇬🇧 | Japanese 🇯🇵
+- Research: Qualitative Methods, Tourism Studies
+- Tools: Notion, Zotero, Figma, Canva
 
-[![Twitter Badge](https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourhandle)](https://twitter.com/yourhandle)
+---
+
+# 📸 My Favorite Photo
+
+<img src="img/IMG_6687.JPG" width="300">
+
+---
+
+# 🔗 Connect with Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
