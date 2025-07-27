@@ -12,7 +12,7 @@
 
 # 🛠 Skills
 
-- Languages: Japanese 🇯🇵, English 🇬🇧
+- Languages: Japanese 🇯🇵 and English 🇬🇧
 - Research: Qualitative Methods, Tourism Studies
 - Completed the **Nihongo-Kyōin Yōsei Katei** (Japanese Language Teacher Training Course)
 - Participated in and completed the **Demola Global Project** with a Finnish-based international team
