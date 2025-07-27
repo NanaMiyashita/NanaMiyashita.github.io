@@ -1,31 +1,31 @@
 # 🌏 Hi there, I'm Nana!
-![image](/img_6687.jpg)
+
+<img src="images/IMG_6687.JPG" width="250" alt="Nana with ShellieMay" align="right" />
 
 I'm a first-year master's student at the **Graduate School of International Media, Communication, and Tourism Studies, Hokkaido University**.  
-I research the connection between **tourism experiences and migration among international residents in Hokkaido**.
+Currently, I'm researching how **seasonal foreign workers in Kutchan, Hokkaido** influence the **image formation of ski resorts** in the region.
 
 ---
 
-## 🎓 Academic Focus
+## 🎓 Research Focus
 
-- 🧭 Research Topic: How **tourism experiences** influence **international migrants’ relocation decisions** in Hokkaido, Japan
-- 🗣️ Interested in: **Community-based tourism**, **inclusive tourism planning**, and **intercultural dialogue**
-- 🌍 Aim: To explore how tourism can be a bridge for sustainable integration and local revitalization
-
----
-
-## 💖 Hobbies & Interests
-
-- ✈️ Traveling — exploring new places and cultures gives me inspiration
-- 🎢 Huge Disney fan — fascinated by its storytelling and immersive experiences
-- 📷 Capturing moments & café hopping around Hokkaido
+- ❄️ Topic: The impact of **seasonal foreign workers** on **ski resort image formation** in **Kutchan, Hokkaido**
+- 🧭 Methods: Qualitative research (e.g., participant observation, interviews)
+- 🗺️ Interests: Tourism geography, labor mobility, and destination branding
 
 ---
 
-## 🔗 Let's Connect!
+## 💖 Hobbies
 
-- 📧 Email: miyashita.nana.c1@elms.hokudai.ac.jp
-- 📍 Location: Hokkaido,Sapporo,Japan
-- 📄 Website / Portfolio: *Coming Soon!*
+- ✈️ **Travel** — I love exploring new places, cultures, and meeting people. Traveling always gives me fresh ideas and perspectives.
+- 🎠 **Disney** — I'm a huge fan of the entire Disney universe. I'm especially drawn to its storytelling, emotional design, and immersive experiences.
 
-Thanks for visiting my profile! 😊
+---
+
+## 🔗 Let's Connect
+
+- 📧 Email: your.email@example.com  
+- 📍 Based in: Hokkaido, Japan  
+- 🌐 Website / Portfolio: *Coming soon!*
+
+Thanks for stopping by! 😊
