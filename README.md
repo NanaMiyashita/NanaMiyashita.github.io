@@ -1,4 +1,7 @@
 # 👩‍🎓 About Me
+<p align="center">
+  <img src="your-image.jpg" alt="Your photo" width="300"/>
+</p>
 
 - 🌍 I'm a Master's student at **Hokkaido University**, Graduate School of International Media, Communication, and Tourism Studies
 - 🏂 My research focuses on how **seasonal foreign workers** shape the **image of ski resorts** in **Kutchan, Hokkaido**
@@ -14,14 +17,8 @@
 
 ---
 
-# 📸 My Favorite Photo
-
-<img src="IMG_6687 19.22.16.JPG" width="250" alt="Nana's profile picture" align="right" />
-
----
-
 # 🔗 Connect with Me
-📧 Email: your.email@example.com
+📧 Email: miyashita.nana.c1@elms.hokudai.ac.jp
 - 📍 Based in: Hokkaido, Japan
 - 🧠 Website or Portfolio: *Coming soon!*
 
