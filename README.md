@@ -4,21 +4,22 @@
 </p>
 
 - 🌍 I'm a Master's student at **Hokkaido University**, Graduate School of International Media, Communication, and Tourism Studies
-- 🏂 My research focuses on how **seasonal foreign workers** shape the **image of ski resorts** in **Kutchan, Hokkaido**
+- 🏂 My research focuses on how **seasonal foreign workers** shape the **image of ski resorts** in **Kutchan and Niseko, Hokkaido**
 - 🎢 I'm passionate about **traveling** and a big **Disney fan** 🏰
-
+- 👧 My MBTI is **ISFJ**
 ---
 
 # 🛠 Skills
 
-- Languages: English 🇬🇧 | Japanese 🇯🇵
+- Languages: Japanese 🇯🇵| English 🇬🇧
 - Research: Qualitative Methods, Tourism Studies
-- Tools: Notion, Zotero, Figma, Canva
+- Completed the **Nihongo-Kyōin Yōsei Katei** (Japanese Language Teacher Training Course)
+- Participated in and completed the **Demola Global Project** with a Finnish-based international team
 
 ---
 
 # 🔗 Connect with Me
 📧 Email: miyashita.nana.c1@elms.hokudai.ac.jp
-- 📍 Based in: Hokkaido, Japan
+- 📍 Based in: Sapporo,Hokkaido,Japan
 - 🧠 Website or Portfolio: *Coming soon!*
 
